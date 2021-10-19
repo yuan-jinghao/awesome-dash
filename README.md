@@ -1,5 +1,3 @@
-# awesome-dash
-Sth about DASH
 # Sth about DASH
 
 ## 1. HAS Introduction
